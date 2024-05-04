@@ -1,0 +1,36 @@
+.field {
+clear: both; 
+text-align: right;
+}
+
+.field {
+clear: both; 
+text-align: right;
+}
+
+label {
+float: left;
+}
+
+.main {
+float: left;
+}
+
+.field {
+clear:both; 
+text-align:right; 
+line-height:25px;
+}
+
+label {
+float:left; 
+padding-right:10px;
+}
+
+.main {
+float: left;
+}
+
+.main2 {
+width: 100%;
+}
